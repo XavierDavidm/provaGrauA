@@ -91,7 +91,6 @@ def prepararPocao(contPoFenix,contEsCelestial,contRaizDragão,contOrvLunar,contF
     print('')
     return(contPoFenix,contEsCelestial,contRaizDragão,contOrvLunar,contFloresSecas,contElixirA,contLaUnicorn)
 
-
 #main
 contPoFenix=100
 contEsCelestial=50
